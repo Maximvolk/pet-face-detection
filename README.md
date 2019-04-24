@@ -1,6 +1,6 @@
 # Pet face detector
 
-Project based on official tutorial from Tensorflow Object Detection API.
+Project based on official tutorial on Tensorflow Object Detection API.
 
 
 Repo contains:
